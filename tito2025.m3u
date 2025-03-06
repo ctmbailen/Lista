@@ -1,0 +1,1401 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 HD" group-title="SPAIN",LA 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/355?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 HD" group-title="SPAIN",LA 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/421?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 HD" group-title="SPAIN",ANTENA 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/348?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO HD" group-title="SPAIN",CUATRO HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/351?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO HD" group-title="SPAIN",TELECINCO HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/374?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA HD" group-title="SPAIN",LA SEXTA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/356?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NOVA" group-title="SPAIN",NOVA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/453?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NEOX" group-title="SPAIN",NEOX
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/450?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV INT" group-title="SPAIN",ARAGON TV INT
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/381?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR HD" group-title="SPAIN",CANAL SUR HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25851?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR 2 HD" group-title="SPAIN",CANAL SUR 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25850?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="7TV MALAGA HD" group-title="SPAIN",7TV MALAGA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25846?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AndaluciaTV" group-title="SPAIN",AndaluciaTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25847?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BOM" group-title="SPAIN",BOM
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25848?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="C  TORREVISION HD" group-title="SPAIN",C  TORREVISION HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25849?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PTV MALAGA" group-title="SPAIN",PTV MALAGA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25852?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TRECE" group-title="SPAIN",TRECE
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25853?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="mega" group-title="SPAIN",mega
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25854?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DMAX" group-title="SPAIN",DMAX
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25857?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL MALAGA HD" group-title="SPAIN",CANAL MALAGA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25858?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="atreseries HD" group-title="SPAIN",atreseries HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25865?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DKISS" group-title="SPAIN",DKISS
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25866?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TEN" group-title="SPAIN",TEN
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25869?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BeMad tv HD" group-title="SPAIN",BeMad tv HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25870?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT NETWORK" group-title="SPAIN",PARAMOUNT NETWORK
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25871?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Malaga 24h Noticias" group-title="SPAIN",Malaga 24h Noticias
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27177?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SOMOS" group-title="SPAIN",SOMOS
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26342?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="101TV HD" group-title="SPAIN",101TV HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27901?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO" group-title="SPAIN",MUNDO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27902?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 1" group-title="SPAIN",TV NACIONAL 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27903?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 2" group-title="SPAIN",TV NACIONAL 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27904?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 3" group-title="SPAIN",TV NACIONAL 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27905?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 4" group-title="SPAIN",TV NACIONAL 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27906?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 5" group-title="SPAIN",TV NACIONAL 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27907?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 6" group-title="SPAIN",TV NACIONAL 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27908?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Copa del Rey 4K" group-title="SPAIN",M+ Copa del Rey 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28153?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 4K" group-title="SPAIN",LA 1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26150?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 4K" group-title="SPAIN",LA 2 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26151?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 4K" group-title="SPAIN",ANTENA 3 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26152?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO 4K" group-title="SPAIN",CUATRO 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26153?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO 4K" group-title="SPAIN",TELECINCO 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26154?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA 4K" group-title="SPAIN",LA SEXTA 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26155?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine 4K" group-title="SPAIN",M+ Cine 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26156?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 4K" group-title="SPAIN",M+ ACCION 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26157?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA 4K" group-title="SPAIN",M+ COMEDIA 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26158?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 4K" group-title="SPAIN",M+ DRAMA 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26159?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES 4K" group-title="SPAIN",M+ SERIES 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26160?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Suspense 4K" group-title="SPAIN",M+ Suspense 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27181?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC 4K" group-title="SPAIN",AMC 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27186?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales 4K" group-title="SPAIN",M+ Originales 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26172?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS 4K" group-title="SPAIN",M+  VAMOS 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26267?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="SPAIN",M+ LaLigaTV 4K
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26142?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga 4K" group-title="SPAIN",DAZN LaLiga 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27168?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="SPAIN",M+ LCAMPEONES 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26140?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 4K" group-title="SPAIN",DAZN F1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26271?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name=" EUROSPORT 1 4K" group-title="SPAIN", EUROSPORT 1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26281?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name=" M+ GOLF 4K " group-title="SPAIN", M+ GOLF 4K 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26323?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar+1 4K" group-title="SPAIN",Movistar+1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26660?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 1" group-title="SPAIN",M+ Cine Del Mundo 4K 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27221?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 2" group-title="SPAIN",M+ Cine Del Mundo 4K 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27222?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Copa del Rey FULL HD" group-title="SPAIN",M+ Copa del Rey FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26044?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS FULL HD" group-title="SPAIN",24 HORAS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27213?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 FULL HD" group-title="SPAIN",LA 1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3797?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 FULL HD" group-title="SPAIN",LA 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3846?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 FULL HD" group-title="SPAIN",ANTENA 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3790?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO FULL HD" group-title="SPAIN",CUATRO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3793?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO FULL HD" group-title="SPAIN",TELECINCO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3814?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA FULL HD" group-title="SPAIN",LA SEXTA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3798?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV FULL HD" group-title="SPAIN",ARAGON TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3820?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NEOX FULL HD" group-title="SPAIN",NEOX FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3851?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NOVA FULL HD" group-title="SPAIN",NOVA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3854?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine FULL HD" group-title="SPAIN",M+ Cine FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3805?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie FULL HD" group-title="SPAIN",M+ Indie FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3789?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION FULL HD" group-title="SPAIN",M+ ACCION FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3799?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 FULL HD" group-title="SPAIN",M+ ACCION 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27199?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA FULL HD" group-title="SPAIN",M+ DRAMA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3801?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 FULL HD" group-title="SPAIN",M+ DRAMA 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27201?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA FULL HD" group-title="SPAIN",M+ COMEDIA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3804?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS FULL HD" group-title="SPAIN",M+ CLASICOS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27214?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol FULL HD" group-title="SPAIN",M+ Cine Espa  ol FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3847?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales FULL HD" group-title="SPAIN",M+ Originales FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3796?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ TERROR FULL HD" group-title="SPAIN",M+ TERROR FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28025?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Resistencia FULL HD" group-title="SPAIN",M+ La Resistencia FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28024?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM FULL HD" group-title="SPAIN",TCM FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3813?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN FULL HD" group-title="SPAIN",AXN FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3791?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC BREAK FULL HD" group-title="SPAIN",AMC BREAK FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3825?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC CRIME FULL HD" group-title="SPAIN",AMC CRIME FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3835?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CALLE 13 FULL HD" group-title="SPAIN",CALLE 13 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3792?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX FULL HD" group-title="SPAIN",FOX FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3795?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES FULL HD" group-title="SPAIN",M+ SERIES FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3803?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Suspense FULL HD" group-title="SPAIN",M+ Suspense FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3809?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SYFY FULL HD" group-title="SPAIN",SYFY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3812?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERTV FULL HD" group-title="SPAIN",WARNERTV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3815?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT FULL HD" group-title="SPAIN",PARAMOUNT FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3855?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD FULL HD" group-title="SPAIN",BE MAD FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3824?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL FULL HD" group-title="SPAIN",COMEDYCENTRAL FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3833?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO FULL HD" group-title="SPAIN",COSMO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3834?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DIVINITY FULL HD" group-title="SPAIN",DIVINITY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3839?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY FULL HD" group-title="SPAIN",ENERGY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3840?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF FULL HD" group-title="SPAIN",FDF FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3841?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS FULL HD" group-title="SPAIN",M+ ELLAS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27189?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO TORO FULL HD" group-title="SPAIN",MUNDO TORO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27238?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS FULL HD" group-title="SPAIN",M+ VAMOS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3819?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA TV FULL HD" group-title="SPAIN",M+ LALIGA TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/3849?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA TV 2 FULL HD" group-title="SPAIN",M+ LALIGA TV 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26045?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga FULL HD" group-title="SPAIN",DAZN LaLiga FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27175?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" group-title="SPAIN",DAZN LALIGA 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27163?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION FULL HD" group-title="SPAIN",LALIGA TV HYPERMOTION FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27166?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 FULL HD" group-title="SPAIN",LALIGA TV HYPERMOTION 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27196?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 FULL HD" group-title="SPAIN",LALIGA TV HYPERMOTION 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27197?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="SPAIN",M+ LCAMPEONES FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26078?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="SPAIN",M+ LCAMPEONES 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26080?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" group-title="SPAIN",M+ LCAMPEONES 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26081?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ FULL HD" group-title="SPAIN",Movistar Plus+ FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27193?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+2 FULL HD" group-title="SPAIN",Movistar Plus+2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27177?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 FULL HD" group-title="SPAIN",DAZN 1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26623?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 FULL HD" group-title="SPAIN",DAZN 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26624?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 FULL HD" group-title="SPAIN",DAZN 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26630?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 FULL HD" group-title="SPAIN",DAZN 4 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26631?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 FULL HD" group-title="SPAIN",DAZN F1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26627?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES FULL HD" group-title="SPAIN",M+ DEPORTES FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3800?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2 FULL HD" group-title="SPAIN",M+ DEPORTES2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27913?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 FULL HD" group-title="SPAIN",EUROSPORT 1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3794?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2 FULL HD" group-title="SPAIN",EUROSPORT 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28023?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF FULL HD" group-title="SPAIN",M+ GOLF FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3802?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 FULL HD" group-title="SPAIN",M+ GOLF 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27231?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY FULL HD" group-title="SPAIN",GOL PLAY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3843?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE FULL HD" group-title="SPAIN",MULTIDEPORTE FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28027?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE FULL HD" group-title="SPAIN",TELEDEPORTE FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3857?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV FULL HD" group-title="SPAIN",Realmadrid TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25867?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL COCINA FULL HD" group-title="SPAIN",CANAL COCINA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3827?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV FULL HD" group-title="SPAIN",SUNDANCE TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3856?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales FULL HD" group-title="SPAIN",M+Documentales FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3821?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO FULL HD" group-title="SPAIN",NAT GEO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3810?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD FULL HD" group-title="SPAIN",NAT GEO WILD FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3811?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL DECASA FULL HD" group-title="SPAIN",CANAL DECASA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3828?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL ODISEA FULL HD" group-title="SPAIN",CANAL ODISEA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3829?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CAZAyPESCA FULL HD" group-title="SPAIN",CAZAyPESCA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3831?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY FULL HD" group-title="SPAIN",DISCOVERY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3836?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORIA FULL HD" group-title="SPAIN",HISTORIA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3844?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA TV FULL HD" group-title="SPAIN",IBERALIA TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3845?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Musica FULL HD" group-title="SPAIN",M+ Musica FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27192?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA FULL HD" group-title="SPAIN",MTV ESPANA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28026?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BABY TV FULL HD" group-title="SPAIN",BABY TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3822?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BOING FULL HD" group-title="SPAIN",BOING FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3826?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA FULL HD" group-title="SPAIN",ENFAMILIA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3830?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CLAN TVE FULL HD" group-title="SPAIN",CLAN TVE FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3832?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CH FULL HD" group-title="SPAIN",DISNEY CH FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3837?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JR FULL HD" group-title="SPAIN",DISNEY JR FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3838?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR FULL HD" group-title="SPAIN",NICK JR FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3852?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON FULL HD" group-title="SPAIN",NICKELODEON FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3853?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks FULL HD" group-title="SPAIN",DreamWorks FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27216?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine HD" group-title="SPAIN",M+ Cine HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/364?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie HD" group-title="SPAIN",M+ Indie HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27909?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION HD" group-title="SPAIN",M+ ACCION HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/358?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 HD" group-title="SPAIN",M+ ACCION 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27198?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA HD" group-title="SPAIN",M+ COMEDIA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/363?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA HD" group-title="SPAIN",M+ DRAMA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/360?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 HD" group-title="SPAIN",M+ DRAMA 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27200?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espagnol" group-title="SPAIN",M+ Cine Espagnol
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/426?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS HD" group-title="SPAIN",M+ CLASICOS HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26665?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ TERROR" group-title="SPAIN",M+ TERROR
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27912?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD" group-title="SPAIN",HOLLYWOOD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/354?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM" group-title="SPAIN",TCM
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/373?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinesur 1" group-title="SPAIN",Cinesur 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26715?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Ficci  n Total 1" group-title="SPAIN",Ficci  n Total 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28151?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 1" group-title="SPAIN",Marvel Studios 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26654?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 2" group-title="SPAIN",Marvel Studios 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26655?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 1" group-title="SPAIN",Prime Video 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26653?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 2" group-title="SPAIN",Prime Video 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26658?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 1" group-title="SPAIN",SkyShowtime 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27227?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 2" group-title="SPAIN",SkyShowtime 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27228?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv1" group-title="SPAIN",Procaja Tv1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26722?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv2" group-title="SPAIN",Procaja Tv2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26723?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv3" group-title="SPAIN",Procaja Tv3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26724?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 1" group-title="SPAIN",M+ Netflix 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27223?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 2" group-title="SPAIN",M+ Netflix 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27225?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 1 HD" group-title="SPAIN",CINE+ 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26344?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 2 HD" group-title="SPAIN",CINE+ 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26345?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Alquiler HD 1" group-title="SPAIN",Canal Alquiler HD 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26647?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 1 HD" group-title="SPAIN",Rakuten TV Top 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26716?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 2 HD" group-title="SPAIN",Rakuten TV Top 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26717?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Family HD" group-title="SPAIN",Rakuten TV Family HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26718?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Trailer 2020" group-title="SPAIN",Trailer 2020
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26239?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 1" group-title="SPAIN",Apple TV+ 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26720?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 2" group-title="SPAIN",Apple TV+ 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26721?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="SPAIN",    SUP MOVIES    
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27147?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 1" group-title="SPAIN",MOVISTAR+ MARVEL 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26325?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 2" group-title="SPAIN",MOVISTAR+ MARVEL 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26326?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 3" group-title="SPAIN",MOVISTAR+ MARVEL 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26327?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 4" group-title="SPAIN",MOVISTAR+ MARVEL 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26328?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 5" group-title="SPAIN",MOVISTAR+ MARVEL 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26329?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales HD" group-title="SPAIN",M+Documentales HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27682?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL ODISEA" group-title="SPAIN",CANAL ODISEA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/399?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO" group-title="SPAIN",NAT GEO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/370?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD" group-title="SPAIN",NAT GEO WILD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/371?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" group-title="SPAIN",DISCOVERY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/408?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORIA" group-title="SPAIN",HISTORIA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/419?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL DECASA" group-title="SPAIN",CANAL DECASA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/398?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CAZAyPESCA HD" group-title="SPAIN",CAZAyPESCA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/402?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA TV" group-title="SPAIN",IBERALIA TV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/420?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Alerta Aeropuerto" group-title="SPAIN",24 7 Alerta Aeropuerto
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26596?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales HD" group-title="SPAIN",M+ Originales HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/378?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES HD" group-title="SPAIN",M+ SERIES HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/362?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Suspense HD" group-title="SPAIN",M+ Suspense HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26662?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX" group-title="SPAIN",FOX
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/353?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC HD" group-title="SPAIN",AMC HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/347?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC BREAK" group-title="SPAIN",AMC BREAK
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27191?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC CRIME" group-title="SPAIN",AMC CRIME
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27190?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN HD" group-title="SPAIN",AXN HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/349?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN MOVIES HD" group-title="SPAIN",AXN MOVIES HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/382?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SYFY" group-title="SPAIN",SYFY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/372?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CALLE 13 HD" group-title="SPAIN",CALLE 13 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/350?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT" group-title="SPAIN",PARAMOUNT
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/454?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERTV" group-title="SPAIN",WARNERTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/375?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="A3SERIES" group-title="SPAIN",A3SERIES
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26343?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDOTORO" group-title="SPAIN",MUNDOTORO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27234?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO TORO HD" group-title="SPAIN",MUNDO TORO HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27229?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO TORO HD +" group-title="SPAIN",MUNDO TORO HD +
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27239?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS  V HD" group-title="SPAIN",M+ ELLAS  V HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27159?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Resistencia" group-title="SPAIN",M+ La Resistencia
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27187?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" group-title="SPAIN",COMEDYCENTRAL
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/405?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD HD" group-title="SPAIN",BE MAD HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/385?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" group-title="SPAIN",COSMO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/406?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF" group-title="SPAIN",FDF
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/415?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL COCINA" group-title="SPAIN",CANAL COCINA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/397?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DIVINITY" group-title="SPAIN",DIVINITY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/412?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY" group-title="SPAIN",ENERGY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/413?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV" group-title="SPAIN",SUNDANCE TV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/456?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC FIGHT PASS" group-title="SPAIN",UFC FIGHT PASS
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28335?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="UEFA Champions League" group-title="SPAIN",UEFA Champions League
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28334?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Copa del Rey SD" group-title="SPAIN",M+ Copa del Rey SD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27176?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Copa del Rey HD" group-title="SPAIN",M+ Copa del Rey HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27175?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="SPAIN",M+ LaLigaTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/435?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" group-title="SPAIN",M+ LaLigaTVSD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26247?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="SPAIN",M+ LaLigaTVHD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26046?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="SPAIN",M+ LaLigaTVHD+
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26248?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" group-title="SPAIN",M+ LaLigaTVHD 235
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27224?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="SPAIN",M+ LaLigaTV 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26048?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga" group-title="SPAIN",DAZN LaLiga
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27174?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga SD" group-title="SPAIN",DAZN LaLiga SD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27170?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD" group-title="SPAIN",DAZN LaLiga HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27160?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD+" group-title="SPAIN",DAZN LaLiga HD+
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27173?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD 235" group-title="SPAIN",DAZN LaLiga HD 235
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27226?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 HD" group-title="SPAIN",DAZN LaLiga2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27161?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="SPAIN",M+ LCAMPEONES +
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26318?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="SPAIN",M+ LCAMPEONES SD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26317?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="SPAIN",M+ LCAMPEONES HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/445?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="SPAIN",M+ LCAMPEONES HD+
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26315?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" group-title="SPAIN",M+ LCAMPEONES 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/439?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 3 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/440?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 4 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27240?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 5 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 5 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27241?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 6 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 6 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27243?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 7 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 7 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27242?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 8 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 8 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27244?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 9 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 9 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27245?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 10 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 10 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27246?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 11 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 11 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27247?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 12 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 12 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27248?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 13 HD  SOLO EVENTOS " group-title="SPAIN",M+ LCAMPEONES 13 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27821?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ HD" group-title="SPAIN",Movistar Plus+ HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26663?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+2 HD" group-title="SPAIN",Movistar Plus+2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27822?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" group-title="SPAIN",DAZN F1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26626?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="SPAIN",DAZN 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/24923?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="SPAIN",DAZN 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/24922?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" group-title="SPAIN",DAZN 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26628?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="SPAIN",DAZN 4 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26629?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" group-title="SPAIN",M+ DEPORTESHD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/359?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES2HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/427?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES3  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/429?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES4  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/430?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES5  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/431?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES6  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/432?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES7  SOLO EVENTOS " group-title="SPAIN",M+ DEPORTES7  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/433?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION HD" group-title="SPAIN",LALIGA TV HYPERMOTION HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27164?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 HD" group-title="SPAIN",LALIGA TV HYPERMOTION 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27194?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 HD" group-title="SPAIN",LALIGA TV HYPERMOTION 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27195?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOSHD" group-title="SPAIN",M+  VAMOSHD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/379?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS BAR1 " group-title="SPAIN",M+  VAMOS BAR1 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26268?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY" group-title="SPAIN",GOL PLAY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/418?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" group-title="SPAIN",Realmadrid TV HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/455?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE HD" group-title="SPAIN",TELEDEPORTE HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/457?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="SPAIN",M+ GOLF HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/361?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" group-title="SPAIN",M+ GOLF 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27230?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" group-title="SPAIN",EUROSPORT 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/352?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2" group-title="SPAIN",EUROSPORT 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/414?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE" group-title="SPAIN",MULTIDEPORTE
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/449?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL INFO FEFTV" group-title="SPAIN",CANAL INFO FEFTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27785?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 1" group-title="SPAIN",FEF TV 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27786?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 2" group-title="SPAIN",FEF TV 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27787?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 3" group-title="SPAIN",FEF TV 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27788?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 4" group-title="SPAIN",FEF TV 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27789?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 5" group-title="SPAIN",FEF TV 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27790?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 6" group-title="SPAIN",FEF TV 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27791?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 7" group-title="SPAIN",FEF TV 7
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27792?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 8" group-title="SPAIN",FEF TV 8
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27793?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 9" group-title="SPAIN",FEF TV 9
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27794?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 10" group-title="SPAIN",FEF TV 10
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27795?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 11" group-title="SPAIN",FEF TV 11
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27796?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 12" group-title="SPAIN",FEF TV 12
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27797?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 13" group-title="SPAIN",FEF TV 13
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27798?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 14" group-title="SPAIN",FEF TV 14
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27799?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 15" group-title="SPAIN",FEF TV 15
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27800?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL INFO FUTSAL" group-title="SPAIN",CANAL INFO FUTSAL
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27801?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 1" group-title="SPAIN",FUTSAL TV 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27802?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 2" group-title="SPAIN",FUTSAL TV 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27803?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 3" group-title="SPAIN",FUTSAL TV 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27804?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 4" group-title="SPAIN",FUTSAL TV 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27805?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 5" group-title="SPAIN",FUTSAL TV 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27806?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA" group-title="SPAIN",MTV ESPANA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/447?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MEZZO LIVE HD" group-title="SPAIN",MEZZO LIVE HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/369?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Classica" group-title="SPAIN",Classica
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/404?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="101 PLAY" group-title="SPAIN",101 PLAY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27176?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Musica HD" group-title="SPAIN",M+ Musica HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26664?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CH HD" group-title="SPAIN",DISNEY CH HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/434?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JR" group-title="SPAIN",DISNEY JR
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/410?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney + 1" group-title="SPAIN",Disney + 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26648?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior Movies 1" group-title="SPAIN",Disney Junior Movies 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26656?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior Movies 2" group-title="SPAIN",Disney Junior Movies 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26657?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CLAN  TVE" group-title="SPAIN",CLAN  TVE
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/403?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BOING" group-title="SPAIN",BOING
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/396?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON" group-title="SPAIN",NICKELODEON
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/452?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" group-title="SPAIN",NICK JR
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/451?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA" group-title="SPAIN",ENFAMILIA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/401?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BABY TV" group-title="SPAIN",BABY TV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/383?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks" group-title="SPAIN",DreamWorks
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26625?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Masha y el Oso" group-title="SPAIN",24 7 Masha y el Oso
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26309?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 El Bombero Sam" group-title="SPAIN",24 7 El Bombero Sam
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26310?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 1" group-title="SPAIN",movistar infantiles 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26205?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 2" group-title="SPAIN",movistar infantiles 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26206?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 3" group-title="SPAIN",movistar infantiles 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26207?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 4" group-title="SPAIN",movistar infantiles 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26208?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 5" group-title="SPAIN",movistar infantiles 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26209?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 6" group-title="SPAIN",movistar infantiles 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26210?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 7" group-title="SPAIN",movistar infantiles 7
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26211?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 8" group-title="SPAIN",movistar infantiles 8
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26212?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 9" group-title="SPAIN",movistar infantiles 9
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26620?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Raised By Wolves" group-title="SPAIN",24 7 Raised By Wolves
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26265?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS" group-title="SPAIN",24 HORAS
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/380?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 HD" group-title="[ES] TDT",LA 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/355?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 HD" group-title="[ES] TDT",LA 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/421?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 HD" group-title="[ES] TDT",ANTENA 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/348?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO HD" group-title="[ES] TDT",CUATRO HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/351?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO HD" group-title="[ES] TDT",TELECINCO HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/374?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA HD" group-title="[ES] TDT",LA SEXTA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/356?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NOVA" group-title="[ES] TDT",NOVA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/453?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NEOX" group-title="[ES] TDT",NEOX
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/450?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV INT" group-title="[ES] TDT",ARAGON TV INT
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/381?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR HD" group-title="[ES] TDT",CANAL SUR HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25851?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL SUR 2 HD" group-title="[ES] TDT",CANAL SUR 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25850?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="7TV MALAGA HD" group-title="[ES] TDT",7TV MALAGA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25846?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AndaluciaTV" group-title="[ES] TDT",AndaluciaTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25847?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BOM" group-title="[ES] TDT",BOM
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25848?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="C  TORREVISION HD" group-title="[ES] TDT",C  TORREVISION HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25849?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PTV MALAGA" group-title="[ES] TDT",PTV MALAGA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25852?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TRECE" group-title="[ES] TDT",TRECE
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25853?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="mega" group-title="[ES] TDT",mega
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25854?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DMAX" group-title="[ES] TDT",DMAX
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25857?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL MALAGA HD" group-title="[ES] TDT",CANAL MALAGA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25858?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="atreseries HD" group-title="[ES] TDT",atreseries HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25865?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DKISS" group-title="[ES] TDT",DKISS
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25866?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TEN" group-title="[ES] TDT",TEN
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25869?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BeMad tv HD" group-title="[ES] TDT",BeMad tv HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25870?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT NETWORK" group-title="[ES] TDT",PARAMOUNT NETWORK
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25871?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Malaga 24h Noticias" group-title="[ES] TDT",Malaga 24h Noticias
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27177?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SOMOS" group-title="[ES] TDT",SOMOS
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26342?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="101TV HD" group-title="[ES] TDT",101TV HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27901?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDO" group-title="[ES] TDT",MUNDO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27902?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 1" group-title="[ES] TDT",TV NACIONAL 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27903?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 2" group-title="[ES] TDT",TV NACIONAL 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27904?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 3" group-title="[ES] TDT",TV NACIONAL 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27905?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 4" group-title="[ES] TDT",TV NACIONAL 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27906?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 5" group-title="[ES] TDT",TV NACIONAL 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27907?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TV NACIONAL 6" group-title="[ES] TDT",TV NACIONAL 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27908?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV" group-title="[ES] SPORT",M+ LaLigaTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/435?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVSD" group-title="[ES] SPORT",M+ LaLigaTVSD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26247?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD" group-title="[ES] SPORT",M+ LaLigaTVHD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26046?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD+" group-title="[ES] SPORT",M+ LaLigaTVHD+
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26248?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTVHD 235" group-title="[ES] SPORT",M+ LaLigaTVHD 235
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27224?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 2 HD" group-title="[ES] SPORT",M+ LaLigaTV 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26048?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ laliga TV 3 HD" group-title="[ES] SPORT",M+ laliga TV 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28987?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ laliga TV 4" group-title="[ES] SPORT",M+ laliga TV 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28989?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga" group-title="[ES] SPORT",DAZN LaLiga
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27174?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga SD" group-title="[ES] SPORT",DAZN LaLiga SD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27170?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD" group-title="[ES] SPORT",DAZN LaLiga HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27160?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD+" group-title="[ES] SPORT",DAZN LaLiga HD+
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27173?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga HD 235" group-title="[ES] SPORT",DAZN LaLiga HD 235
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27226?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga2 HD" group-title="[ES] SPORT",DAZN LaLiga2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27161?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="UEFA Champions League" group-title="[ES] SPORT",UEFA Champions League
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28334?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES +" group-title="[ES] SPORT",M+ LCAMPEONES +
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26318?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES SD" group-title="[ES] SPORT",M+ LCAMPEONES SD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26317?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD" group-title="[ES] SPORT",M+ LCAMPEONES HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/445?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES HD+" group-title="[ES] SPORT",M+ LCAMPEONES HD+
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26315?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 HD" group-title="[ES] SPORT",M+ LCAMPEONES 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/439?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 HD  SOLO EVENTOS " group-title="[ES] SPORT",M+ LCAMPEONES 3 HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/440?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON4" group-title="[ES] SPORT",M+LCAMPEON4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28972?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON5" group-title="[ES] SPORT",M+LCAMPEON5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28973?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON6" group-title="[ES] SPORT",M+LCAMPEON6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28974?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON7" group-title="[ES] SPORT",M+LCAMPEON7
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28975?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON8" group-title="[ES] SPORT",M+LCAMPEON8
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28976?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON9" group-title="[ES] SPORT",M+LCAMPEON9
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28977?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON10" group-title="[ES] SPORT",M+LCAMPEON10
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28978?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON11" group-title="[ES] SPORT",M+LCAMPEON11
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28979?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON12" group-title="[ES] SPORT",M+LCAMPEON12
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28980?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON13" group-title="[ES] SPORT",M+LCAMPEON13
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28981?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON14" group-title="[ES] SPORT",M+LCAMPEON14
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29461?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON15" group-title="[ES] SPORT",M+LCAMPEON15
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29462?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON16" group-title="[ES] SPORT",M+LCAMPEON16
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29463?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON17" group-title="[ES] SPORT",M+LCAMPEON17
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29464?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON18" group-title="[ES] SPORT",M+LCAMPEON18
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29465?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+LCAMPEON19" group-title="[ES] SPORT",M+LCAMPEON19
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29466?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Copa del Rey HD" group-title="[ES] SPORT",M+Copa del Rey HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28988?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ HD" group-title="[ES] SPORT",Movistar Plus+ HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26663?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+2 HD" group-title="[ES] SPORT",Movistar Plus+2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27822?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION HD" group-title="[ES] SPORT",LALIGA TV HYPERMOTION HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27164?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 HD" group-title="[ES] SPORT",LALIGA TV HYPERMOTION 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27194?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 HD" group-title="[ES] SPORT",LALIGA TV HYPERMOTION 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27195?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 HD" group-title="[ES] SPORT",DAZN F1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26626?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD" group-title="[ES] SPORT",DAZN 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/24923?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD" group-title="[ES] SPORT",DAZN 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/24922?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 HD" group-title="[ES] SPORT",DAZN 3 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26628?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 HD" group-title="[ES] SPORT",DAZN 4 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26629?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 HD" group-title="[ES] SPORT",EUROSPORT 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/352?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT2HD" group-title="[ES] SPORT",EUROSPORT2HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28723?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTESHD" group-title="[ES] SPORT",M+ DEPORTESHD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/359?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2HD  SOLO EVENTOS " group-title="[ES] SPORT",M+ DEPORTES2HD  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/427?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES3  SOLO EVENTOS " group-title="[ES] SPORT",M+ DEPORTES3  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/429?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES4  SOLO EVENTOS " group-title="[ES] SPORT",M+ DEPORTES4  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/430?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES5  SOLO EVENTOS " group-title="[ES] SPORT",M+ DEPORTES5  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/431?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES6  SOLO EVENTOS " group-title="[ES] SPORT",M+ DEPORTES6  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/432?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES7  SOLO EVENTOS " group-title="[ES] SPORT",M+ DEPORTES7  SOLO EVENTOS 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/433?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOSHD" group-title="[ES] SPORT",M+  VAMOSHD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/379?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA LIGA+" group-title="[ES] SPORT",LA LIGA+
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/29091?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="UFC HD" group-title="[ES] SPORT",UFC HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28982?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY" group-title="[ES] SPORT",GOL PLAY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/418?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV HD" group-title="[ES] SPORT",Realmadrid TV HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/455?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE HD" group-title="[ES] SPORT",TELEDEPORTE HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/457?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF HD" group-title="[ES] SPORT",M+ GOLF HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/361?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 HD" group-title="[ES] SPORT",M+ GOLF 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27230?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2" group-title="[ES] SPORT",EUROSPORT 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/414?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE" group-title="[ES] SPORT",MULTIDEPORTE
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/449?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL INFO FEFTV" group-title="[ES] SPORT",CANAL INFO FEFTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27785?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 1" group-title="[ES] SPORT",FEF TV 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27786?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 2" group-title="[ES] SPORT",FEF TV 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27787?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 3" group-title="[ES] SPORT",FEF TV 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27788?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 4" group-title="[ES] SPORT",FEF TV 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27789?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 5" group-title="[ES] SPORT",FEF TV 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27790?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 6" group-title="[ES] SPORT",FEF TV 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27791?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 7" group-title="[ES] SPORT",FEF TV 7
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27792?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 8" group-title="[ES] SPORT",FEF TV 8
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27793?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 9" group-title="[ES] SPORT",FEF TV 9
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27794?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 10" group-title="[ES] SPORT",FEF TV 10
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27795?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 11" group-title="[ES] SPORT",FEF TV 11
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27796?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 12" group-title="[ES] SPORT",FEF TV 12
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27797?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 13" group-title="[ES] SPORT",FEF TV 13
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27798?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 14" group-title="[ES] SPORT",FEF TV 14
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27799?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 15" group-title="[ES] SPORT",FEF TV 15
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27800?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 16" group-title="[ES] SPORT",FEF TV 16
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28839?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 17" group-title="[ES] SPORT",FEF TV 17
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28840?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 18" group-title="[ES] SPORT",FEF TV 18
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28841?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 19" group-title="[ES] SPORT",FEF TV 19
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28842?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FEF TV 20" group-title="[ES] SPORT",FEF TV 20
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28843?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL INFO FUTSAL" group-title="[ES] SPORT",CANAL INFO FUTSAL
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27801?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 1" group-title="[ES] SPORT",FUTSAL TV 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27802?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 2" group-title="[ES] SPORT",FUTSAL TV 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27803?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 3" group-title="[ES] SPORT",FUTSAL TV 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27804?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 4" group-title="[ES] SPORT",FUTSAL TV 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27805?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 5" group-title="[ES] SPORT",FUTSAL TV 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27806?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 6" group-title="[ES] SPORT",FUTSAL TV 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28844?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 7" group-title="[ES] SPORT",FUTSAL TV 7
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28845?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 8" group-title="[ES] SPORT",FUTSAL TV 8
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28846?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 9" group-title="[ES] SPORT",FUTSAL TV 9
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28847?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 10" group-title="[ES] SPORT",FUTSAL TV 10
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28848?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 11" group-title="[ES] SPORT",FUTSAL TV 11
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28849?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 12" group-title="[ES] SPORT",FUTSAL TV 12
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28850?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 13" group-title="[ES] SPORT",FUTSAL TV 13
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28851?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FUTSAL TV 14" group-title="[ES] SPORT",FUTSAL TV 14
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28852?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Frank Capra" group-title="[ES] CINE",M+ Frank Capra
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28733?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine HD" group-title="[ES] CINE",M+ Cine HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/364?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie HD" group-title="[ES] CINE",M+ Indie HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27909?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficcion Premium" group-title="[ES] CINE",M+ Ficcion Premium
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28969?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION HD" group-title="[ES] CINE",M+ ACCION HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/358?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 HD" group-title="[ES] CINE",M+ ACCION 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27198?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficci  n 1 HD" group-title="[ES] CINE",M+ Ficci  n 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28715?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Ficci  n 2 HD" group-title="[ES] CINE",M+ Ficci  n 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28716?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA HD" group-title="[ES] CINE",M+ COMEDIA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/363?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA HD" group-title="[ES] CINE",M+ DRAMA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/360?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 HD" group-title="[ES] CINE",M+ DRAMA 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27200?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espagnol" group-title="[ES] CINE",M+ Cine Espagnol
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/426?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS HD" group-title="[ES] CINE",M+ CLASICOS HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26665?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ NAVIDAD" group-title="[ES] CINE",M+ NAVIDAD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27912?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="HOLLYWOOD" group-title="[ES] CINE",HOLLYWOOD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/354?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM" group-title="[ES] CINE",TCM
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/373?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinesur 1" group-title="[ES] CINE",Cinesur 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26715?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 1" group-title="[ES] CINE",Marvel Studios 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26654?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Marvel Studios 2" group-title="[ES] CINE",Marvel Studios 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26655?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 1" group-title="[ES] CINE",Prime Video 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26653?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Prime Video 2" group-title="[ES] CINE",Prime Video 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26658?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 1" group-title="[ES] CINE",SkyShowtime 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27227?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SkyShowtime 2" group-title="[ES] CINE",SkyShowtime 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27228?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv1" group-title="[ES] CINE",Procaja Tv1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26722?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv2" group-title="[ES] CINE",Procaja Tv2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26723?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Procaja Tv3" group-title="[ES] CINE",Procaja Tv3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26724?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 1" group-title="[ES] CINE",M+ Netflix 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27223?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Netflix 2" group-title="[ES] CINE",M+ Netflix 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27225?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 1 HD" group-title="[ES] CINE",CINE+ 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26344?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE+ 2 HD" group-title="[ES] CINE",CINE+ 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26345?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Canal Alquiler HD 1" group-title="[ES] CINE",Canal Alquiler HD 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26647?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 1 HD" group-title="[ES] CINE",Rakuten TV Top 1 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26716?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Top 2 HD" group-title="[ES] CINE",Rakuten TV Top 2 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26717?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Rakuten TV Family HD" group-title="[ES] CINE",Rakuten TV Family HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26718?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Trailer 2020" group-title="[ES] CINE",Trailer 2020
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26239?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 1" group-title="[ES] CINE",Apple TV+ 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26720?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Apple TV+ 2" group-title="[ES] CINE",Apple TV+ 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26721?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="    SUP MOVIES    " group-title="[ES] CINE",    SUP MOVIES    
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27147?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 1" group-title="[ES] CINE",MOVISTAR+ MARVEL 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26325?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 2" group-title="[ES] CINE",MOVISTAR+ MARVEL 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26326?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 3" group-title="[ES] CINE",MOVISTAR+ MARVEL 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26327?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 4" group-title="[ES] CINE",MOVISTAR+ MARVEL 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26328?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MOVISTAR+ MARVEL 5" group-title="[ES] CINE",MOVISTAR+ MARVEL 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26329?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Ficci  n Total 1" group-title="[ES] CINE",Ficci  n Total 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28151?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales HD" group-title="[ES] SERIES",M+ Originales HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/378?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES HD" group-title="[ES] SERIES",M+ SERIES HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/362?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR Channel" group-title="[ES] SERIES",STAR Channel
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/353?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC HD" group-title="[ES] SERIES",AMC HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/347?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC BREAK" group-title="[ES] SERIES",AMC BREAK
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27191?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC CRIME" group-title="[ES] SERIES",AMC CRIME
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27190?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN HD" group-title="[ES] SERIES",AXN HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/349?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN MOVIES HD" group-title="[ES] SERIES",AXN MOVIES HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/382?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SYFY" group-title="[ES] SERIES",SYFY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/372?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CALLE 13 HD" group-title="[ES] SERIES",CALLE 13 HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/350?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT" group-title="[ES] SERIES",PARAMOUNT
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/454?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERTV" group-title="[ES] SERIES",WARNERTV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/375?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="A3SERIES" group-title="[ES] SERIES",A3SERIES
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26343?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MUNDOTORO" group-title="[ES] ENTRETENIMIENTO",MUNDOTORO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27234?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ONETORO HD" group-title="[ES] ENTRETENIMIENTO",ONETORO HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27229?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ONETORO HD +" group-title="[ES] ENTRETENIMIENTO",ONETORO HD +
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27239?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS  V HD" group-title="[ES] ENTRETENIMIENTO",M+ ELLAS  V HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27159?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Resistencia" group-title="[ES] ENTRETENIMIENTO",M+ La Resistencia
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27187?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL" group-title="[ES] ENTRETENIMIENTO",COMEDYCENTRAL
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/405?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD HD" group-title="[ES] ENTRETENIMIENTO",BE MAD HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/385?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO" group-title="[ES] ENTRETENIMIENTO",COSMO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/406?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF" group-title="[ES] ENTRETENIMIENTO",FDF
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/415?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL COCINA" group-title="[ES] ENTRETENIMIENTO",CANAL COCINA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/397?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DIVINITY" group-title="[ES] ENTRETENIMIENTO",DIVINITY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/412?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY" group-title="[ES] ENTRETENIMIENTO",ENERGY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/413?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV" group-title="[ES] ENTRETENIMIENTO",SUNDANCE TV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/456?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales HD" group-title="[ES] CULTURA",M+Documentales HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27682?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL ODISEA" group-title="[ES] CULTURA",CANAL ODISEA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/399?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO" group-title="[ES] CULTURA",NAT GEO
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/370?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD" group-title="[ES] CULTURA",NAT GEO WILD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/371?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY" group-title="[ES] CULTURA",DISCOVERY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/408?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORIA" group-title="[ES] CULTURA",HISTORIA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/419?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL DECASA" group-title="[ES] CULTURA",CANAL DECASA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/398?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CAZAyPESCA HD" group-title="[ES] CULTURA",CAZAyPESCA HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/402?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA TV" group-title="[ES] CULTURA",IBERALIA TV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/420?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Alerta Aeropuerto" group-title="[ES] CULTURA",24 7 Alerta Aeropuerto
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26596?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Copa del Rey 4K" group-title="[ES] 4K",M+Copa del Rey 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28991?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LaLigaTV 4K" group-title="[ES] 4K",M+ LaLigaTV 4K
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/26142?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga 4K" group-title="[ES] 4K",DAZN LaLiga 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27168?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 4K" group-title="[ES] 4K",M+ LCAMPEONES 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26140?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 4K" group-title="[ES] 4K",DAZN F1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26271?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+  VAMOS 4K" group-title="[ES] 4K",M+  VAMOS 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26267?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name=" EUROSPORT 1 4K" group-title="[ES] 4K", EUROSPORT 1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26281?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 4K" group-title="[ES] 4K",LA 1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26150?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 4K" group-title="[ES] 4K",LA 2 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26151?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 4K" group-title="[ES] 4K",ANTENA 3 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26152?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO 4K" group-title="[ES] 4K",CUATRO 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26153?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO 4K" group-title="[ES] 4K",TELECINCO 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26154?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA 4K" group-title="[ES] 4K",LA SEXTA 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26155?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine 4K" group-title="[ES] 4K",M+ Cine 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26156?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 4K" group-title="[ES] 4K",M+ ACCION 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26157?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA 4K" group-title="[ES] 4K",M+ COMEDIA 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26158?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 4K" group-title="[ES] 4K",M+ DRAMA 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26159?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES 4K" group-title="[ES] 4K",M+ SERIES 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26160?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC 4K" group-title="[ES] 4K",AMC 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27186?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales 4K" group-title="[ES] 4K",M+ Originales 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26172?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name=" M+ GOLF 4K " group-title="[ES] 4K", M+ GOLF 4K 
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26323?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar+1 4K" group-title="[ES] 4K",Movistar+1 4K
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26660?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 1" group-title="[ES] 4K",M+ Cine Del Mundo 4K 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27221?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Del Mundo 4K 2" group-title="[ES] 4K",M+ Cine Del Mundo 4K 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27222?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Copa del Rey FULL HD" group-title="[ES] FULL HD",M+Copa del Rey FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28990?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA TV FULL HD" group-title="[ES] FULL HD",M+ LALIGA TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/3849?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LALIGA TV 2 FULL HD" group-title="[ES] FULL HD",M+ LALIGA TV 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26045?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA FULL HD" group-title="[ES] FULL HD",DAZN LALIGA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27175?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LALIGA 2 FULL HD" group-title="[ES] FULL HD",DAZN LALIGA 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27163?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION FULL HD" group-title="[ES] FULL HD",LALIGA TV HYPERMOTION FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27166?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 2 FULL HD" group-title="[ES] FULL HD",LALIGA TV HYPERMOTION 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27196?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LALIGA TV HYPERMOTION 3 FULL HD" group-title="[ES] FULL HD",LALIGA TV HYPERMOTION 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27197?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES FULL HD" group-title="[ES] FULL HD",M+ LCAMPEONES FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26078?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 2 FULL HD" group-title="[ES] FULL HD",M+ LCAMPEONES 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26080?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ LCAMPEONES 3 FULL HD" group-title="[ES] FULL HD",M+ LCAMPEONES 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26081?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1 FULL HD" group-title="[ES] FULL HD",DAZN F1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26627?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="GOL PLAY FULL HD" group-title="[ES] FULL HD",GOL PLAY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3843?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ VAMOS FULL HD" group-title="[ES] FULL HD",M+ VAMOS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3819?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+ FULL HD" group-title="[ES] FULL HD",Movistar Plus+ FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27193?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Movistar Plus+2 FULL HD" group-title="[ES] FULL HD",Movistar Plus+2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.update.nomquiassure.lol:8080/ZimRjruneP/018511171401/27177?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES FULL HD" group-title="[ES] FULL HD",M+ DEPORTES FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3800?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DEPORTES2 FULL HD" group-title="[ES] FULL HD",M+ DEPORTES2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27913?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 1 FULL HD" group-title="[ES] FULL HD",EUROSPORT 1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3794?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 HORAS FULL HD" group-title="[ES] FULL HD",24 HORAS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27213?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 1 FULL HD" group-title="[ES] FULL HD",LA 1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3797?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA 2 FULL HD" group-title="[ES] FULL HD",LA 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3846?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ANTENA 3 FULL HD" group-title="[ES] FULL HD",ANTENA 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3790?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CUATRO FULL HD" group-title="[ES] FULL HD",CUATRO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3793?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELECINCO FULL HD" group-title="[ES] FULL HD",TELECINCO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3814?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="LA SEXTA FULL HD" group-title="[ES] FULL HD",LA SEXTA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3798?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV FULL HD" group-title="[ES] FULL HD",ARAGON TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3820?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NEOX FULL HD" group-title="[ES] FULL HD",NEOX FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3851?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NOVA FULL HD" group-title="[ES] FULL HD",NOVA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3854?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine FULL HD" group-title="[ES] FULL HD",M+ Cine FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3805?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Indie FULL HD" group-title="[ES] FULL HD",M+ Indie FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3789?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION FULL HD" group-title="[ES] FULL HD",M+ ACCION FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3799?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ACCION 2 FULL HD" group-title="[ES] FULL HD",M+ ACCION 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27199?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA FULL HD" group-title="[ES] FULL HD",M+ DRAMA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3801?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ DRAMA 2 FULL HD" group-title="[ES] FULL HD",M+ DRAMA 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27201?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ COMEDIA FULL HD" group-title="[ES] FULL HD",M+ COMEDIA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3804?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ CLASICOS FULL HD" group-title="[ES] FULL HD",M+ CLASICOS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27214?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Cine Espa  ol FULL HD" group-title="[ES] FULL HD",M+ Cine Espa  ol FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3847?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ Originales FULL HD" group-title="[ES] FULL HD",M+ Originales FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3796?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ NAVIDAD FULL HD" group-title="[ES] FULL HD",M+ NAVIDAD FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28025?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ La Resistencia FULL HD" group-title="[ES] FULL HD",M+ La Resistencia FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28024?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM FULL HD" group-title="[ES] FULL HD",TCM FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3813?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN FULL HD" group-title="[ES] FULL HD",AXN FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3791?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC BREAK FULL HD" group-title="[ES] FULL HD",AMC BREAK FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3825?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC CRIME FULL HD" group-title="[ES] FULL HD",AMC CRIME FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3835?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CALLE 13 FULL HD" group-title="[ES] FULL HD",CALLE 13 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3792?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FOX FULL HD" group-title="[ES] FULL HD",FOX FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3795?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ SERIES FULL HD" group-title="[ES] FULL HD",M+ SERIES FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3803?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SYFY FULL HD" group-title="[ES] FULL HD",SYFY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3812?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="WARNERTV FULL HD" group-title="[ES] FULL HD",WARNERTV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3815?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="PARAMOUNT FULL HD" group-title="[ES] FULL HD",PARAMOUNT FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3855?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD FULL HD" group-title="[ES] FULL HD",BE MAD FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3824?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COMEDYCENTRAL FULL HD" group-title="[ES] FULL HD",COMEDYCENTRAL FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3833?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="COSMO FULL HD" group-title="[ES] FULL HD",COSMO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3834?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DIVINITY FULL HD" group-title="[ES] FULL HD",DIVINITY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3839?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENERGY FULL HD" group-title="[ES] FULL HD",ENERGY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3840?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="FDF FULL HD" group-title="[ES] FULL HD",FDF FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3841?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ ELLAS FULL HD" group-title="[ES] FULL HD",M+ ELLAS FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27189?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ONETORO FULL HD" group-title="[ES] FULL HD",ONETORO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27238?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 FULL HD" group-title="[ES] FULL HD",DAZN 1 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26623?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 FULL HD" group-title="[ES] FULL HD",DAZN 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26624?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3 FULL HD" group-title="[ES] FULL HD",DAZN 3 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26630?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4 FULL HD" group-title="[ES] FULL HD",DAZN 4 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26631?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="EUROSPORT 2 FULL HD" group-title="[ES] FULL HD",EUROSPORT 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28023?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF FULL HD" group-title="[ES] FULL HD",M+ GOLF FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3802?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+ GOLF 2 FULL HD" group-title="[ES] FULL HD",M+ GOLF 2 FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27231?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MULTIDEPORTE FULL HD" group-title="[ES] FULL HD",MULTIDEPORTE FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28027?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEDEPORTE FULL HD" group-title="[ES] FULL HD",TELEDEPORTE FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3857?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Realmadrid TV FULL HD" group-title="[ES] FULL HD",Realmadrid TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/25867?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL COCINA FULL HD" group-title="[ES] FULL HD",CANAL COCINA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3827?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="SUNDANCE TV FULL HD" group-title="[ES] FULL HD",SUNDANCE TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3856?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="M+Documentales FULL HD" group-title="[ES] FULL HD",M+Documentales FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3821?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO FULL HD" group-title="[ES] FULL HD",NAT GEO FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3810?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NAT GEO WILD FULL HD" group-title="[ES] FULL HD",NAT GEO WILD FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3811?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL DECASA FULL HD" group-title="[ES] FULL HD",CANAL DECASA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3828?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CANAL ODISEA FULL HD" group-title="[ES] FULL HD",CANAL ODISEA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3829?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CAZAyPESCA FULL HD" group-title="[ES] FULL HD",CAZAyPESCA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3831?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISCOVERY FULL HD" group-title="[ES] FULL HD",DISCOVERY FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3836?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="HISTORIA FULL HD" group-title="[ES] FULL HD",HISTORIA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3844?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="IBERALIA TV FULL HD" group-title="[ES] FULL HD",IBERALIA TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3845?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA FULL HD" group-title="[ES] FULL HD",MTV ESPANA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/28026?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BABY TV FULL HD" group-title="[ES] FULL HD",BABY TV FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3822?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BOING FULL HD" group-title="[ES] FULL HD",BOING FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3826?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA FULL HD" group-title="[ES] FULL HD",ENFAMILIA FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3830?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CLAN TVE FULL HD" group-title="[ES] FULL HD",CLAN TVE FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3832?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CH FULL HD" group-title="[ES] FULL HD",DISNEY CH FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3837?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JR FULL HD" group-title="[ES] FULL HD",DISNEY JR FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3838?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR FULL HD" group-title="[ES] FULL HD",NICK JR FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3852?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON FULL HD" group-title="[ES] FULL HD",NICKELODEON FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/3853?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks FULL HD" group-title="[ES] FULL HD",DreamWorks FULL HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27216?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY CH HD" group-title="[ES] NINOS",DISNEY CH HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/434?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DISNEY JR" group-title="[ES] NINOS",DISNEY JR
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/410?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney + 1" group-title="[ES] NINOS",Disney + 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26648?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior Movies 1" group-title="[ES] NINOS",Disney Junior Movies 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26656?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Junior Movies 2" group-title="[ES] NINOS",Disney Junior Movies 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26657?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="CLAN  TVE" group-title="[ES] NINOS",CLAN  TVE
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/403?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BOING" group-title="[ES] NINOS",BOING
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/396?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICKELODEON" group-title="[ES] NINOS",NICKELODEON
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/452?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="NICK JR" group-title="[ES] NINOS",NICK JR
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/451?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="ENFAMILIA" group-title="[ES] NINOS",ENFAMILIA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/401?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="BABY TV" group-title="[ES] NINOS",BABY TV
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/383?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="DreamWorks" group-title="[ES] NINOS",DreamWorks
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26625?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Masha y el Oso" group-title="[ES] NINOS",24 7 Masha y el Oso
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26309?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 El Bombero Sam" group-title="[ES] NINOS",24 7 El Bombero Sam
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26310?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 1" group-title="[ES] NINOS",movistar infantiles 1
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26205?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 2" group-title="[ES] NINOS",movistar infantiles 2
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26206?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 3" group-title="[ES] NINOS",movistar infantiles 3
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26207?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 4" group-title="[ES] NINOS",movistar infantiles 4
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26208?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 5" group-title="[ES] NINOS",movistar infantiles 5
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26209?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 6" group-title="[ES] NINOS",movistar infantiles 6
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26210?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 7" group-title="[ES] NINOS",movistar infantiles 7
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26211?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 8" group-title="[ES] NINOS",movistar infantiles 8
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26212?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="movistar infantiles 9" group-title="[ES] NINOS",movistar infantiles 9
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26620?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="24 7 Raised By Wolves" group-title="[ES] NINOS",24 7 Raised By Wolves
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/26265?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV ESPANA" group-title="[ES] MUSICA",MTV ESPANA
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/447?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="MEZZO LIVE HD" group-title="[ES] MUSICA",MEZZO LIVE HD
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/369?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="Classica" group-title="[ES] MUSICA",Classica
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/404?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
+#EXTINF:-1 tvg-id="ext" tvg-name="101 PLAY" group-title="[ES] MUSICA",101 PLAY
+http://4421112fe6e905de72ce5dd260afe3ed.system.nomquiassure.lol:8080/ZimRjruneP/018511171401/27176?h=9226a69f2d2582d032882d892d917d15f3a6a400&z=212.102.38.60&i=82953
